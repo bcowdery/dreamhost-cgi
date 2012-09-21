@@ -1,0 +1,5 @@
+*.cgi -crlf
+*.py -crlf
+*.pl -crlf
+*.sh -crlf
+*.rb -crlf
